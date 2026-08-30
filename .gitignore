@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node.js
+node_modules/
+
+# Runtime database
+releases.duckdb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
