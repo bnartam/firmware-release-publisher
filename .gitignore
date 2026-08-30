@@ -3,14 +3,16 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# Node.js
+# Node
 node_modules/
 
 # Runtime database
 releases.duckdb
 
-# OS / editor
+# OS
 .DS_Store
 Thumbs.db
+
+# Editors
 .vscode/
 .idea/
